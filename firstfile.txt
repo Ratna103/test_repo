@@ -1,1 +1,1 @@
-git is versioning tool
+ different types of repository
