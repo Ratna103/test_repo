@@ -1,1 +1,2 @@
 what are the commands used in git
+push coomand is used to move file form local repo to remote repo
