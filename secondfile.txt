@@ -1,3 +1,4 @@
 what are the commands used in git
 push coomand is used to move file form local repo to remote repo
 git fetch is used to trach the changes
+git pull is used to move changes from remote to local repository
