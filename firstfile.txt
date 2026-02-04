@@ -1,1 +1,1 @@
-Today is first class of git
+git is versioning tool
