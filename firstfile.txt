@@ -1,1 +1,3 @@
  different types of repository
+Git is version control tool
+it has two types of repository local and remote repo
